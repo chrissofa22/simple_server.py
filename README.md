@@ -1,2 +1,2 @@
 # simple_server.py
-This is a simple server created with Python.
+Simple display text web server created via Python
